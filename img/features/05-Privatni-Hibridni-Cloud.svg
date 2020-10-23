@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 118 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41421;">
+    <g id="Artboard5" transform="matrix(0.59,0,0,0.558005,-2996.35,0)">
+        <rect x="5078.56" y="0" width="200" height="211.468" style="fill:none;"/>
+        <g transform="matrix(1.47029,0,0,2.42165,1111.48,-2715.75)">
+            <g transform="matrix(0,-1.00631,-1.56757,0,2766.18,1122.55)">
+                <path d="M-42.285,-42.285C-65.639,-42.285 -84.57,-23.354 -84.57,0C-84.57,23.354 -65.639,42.285 -42.285,42.285C-18.931,42.285 0,23.354 0,0C0,-23.354 -18.931,-42.285 -42.285,-42.285" style="fill:rgb(120,190,32);fill-rule:nonzero;"/>
+            </g>
+            <g id="Cloud-Icon" serif:id="Cloud Icon" transform="matrix(2.88195,0,0,1.85008,5.27129,-4492.45)">
+                <path d="M970,3061.5C970,3064.54 967.538,3067 964.5,3067C964.499,3067 964.498,3067 964.497,3067L964.497,3067L952.497,3067L952.497,3067C948.908,3067 946,3064.09 946,3060.5C946,3057.24 948.415,3054.56 951.552,3054.1C952.715,3051.12 955.607,3049 959,3049C963.289,3049 966.779,3052.38 966.981,3056.62C968.765,3057.53 970,3059.36 970,3061.5Z" style="fill:white;"/>
+            </g>
+            <g id="Checked-Icon" serif:id="Checked Icon" transform="matrix(1.29614,0,0,0.852244,1665.77,-1626.45)">
+                <path d="M857.397,3270.44L845.492,3282.36L840.588,3277.44C839.995,3276.85 839.034,3276.85 838.442,3277.44C837.849,3278.04 837.849,3279 838.442,3279.59L844.388,3285.56C844.692,3285.86 845.093,3286.01 845.492,3286C845.891,3286.01 846.292,3285.86 846.597,3285.56L859.543,3272.59C860.135,3272 860.135,3271.04 859.543,3270.44C858.95,3269.85 857.989,3269.85 857.397,3270.44Z" style="fill:rgb(120,190,32);stroke:rgb(120,190,32);stroke-width:1.76px;"/>
+            </g>
+        </g>
+    </g>
+</svg>

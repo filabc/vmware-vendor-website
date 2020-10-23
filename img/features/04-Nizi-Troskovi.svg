@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 118 118" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-miterlimit:10;">
+    <g id="Artboard4" transform="matrix(0.59,0,0,0.558005,-2996.35,0)">
+        <rect x="5078.56" y="0" width="200" height="211.468" style="fill:none;"/>
+        <g transform="matrix(1.47029,0,0,2.42165,1756.28,-2715.75)">
+            <g transform="matrix(0,-1.00631,-1.56757,0,2327.63,1122.55)">
+                <path d="M-42.285,-42.285C-65.639,-42.285 -84.57,-23.354 -84.57,0C-84.57,23.354 -65.639,42.285 -42.285,42.285C-18.931,42.285 0,23.354 0,0C0,-23.354 -18.931,-42.285 -42.285,-42.285" style="fill:rgb(120,190,32);fill-rule:nonzero;"/>
+            </g>
+            <g transform="matrix(3.3625,0,0,2.15857,-6883.75,-2029.69)">
+                <text x="2734.5px" y="1485.81px" style="font-family:'Quicksand-Medium', 'Quicksand Medium';font-weight:500;font-size:17.142px;fill:white;">$</text>
+            </g>
+            <g transform="matrix(0.998335,-0.370016,0.576389,0.640887,-1157.01,1163.44)">
+                <g transform="matrix(0.866025,0.5,-0.5,0.866025,2595.12,1432.76)">
+                    <path d="M95.474,26.595L93.609,31.959L87.94,32.3" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    <path d="M18.978,77.113C9.925,56.822 17.5,32.529 37.162,21.176C56.291,10.132 80.307,15.12 93.609,31.959" style="fill:none;stroke:white;stroke-width:3px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+            <g transform="matrix(-0.998335,0.370016,-0.576389,-0.640887,5812.26,1166.77)">
+                <g transform="matrix(-0.866025,-0.5,0.5,-0.866025,2638.31,1593.95)">
+                    <path d="M22.526,91.405L24.391,86.041L30.06,85.7" style="fill:none;stroke:white;stroke-width:3px;"/>
+                    <path d="M99.022,40.887C108.075,61.178 100.5,85.471 80.838,96.824C61.709,107.868 37.693,102.88 24.391,86.041" style="fill:none;stroke:white;stroke-width:3px;stroke-linejoin:round;stroke-miterlimit:1.5;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
